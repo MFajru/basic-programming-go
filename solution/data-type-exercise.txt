@@ -1,0 +1,35 @@
+1. What would be the appropriate data type for storing a person's age?
+var age int8
+
+2. What data type would be appropriate for storing the number of pages in a book?
+var pageNumber uint16
+
+3. Which data type would you use to store the price of a meal at a restaurant?
+var mealPrice float32
+
+4. What data type would you use to represent the total population of a city?
+var cityPopulation int32
+
+5. Determine the suitable data type for representing a grade point average (GPA).
+var gpa float32
+
+6. Identify the appropriate data type for storing an email address.
+var email string
+
+7. What data type would be the most appropriate for storing a flag that indicates whether or not a user has accepted the terms and conditions?
+var flag bool
+
+8. What type of data would you use to store the distance from the Earth to the Moon?
+var distanceMoontoEarth int32 
+
+9. Determine the suitable data type for representing the ISBN number of a book.
+var isbnNumber string
+
+10. Identify the appropriate data type for storing the hexadecimal value of a color.
+var hexadecimalColor string
+
+11. Determine the suitable data type for representing the rating of a movie (1-5 stars).
+var movieRating float32
+
+12. Identify the appropriate data type for storing the file size of an image in bytes.
+var fileSize uint64
